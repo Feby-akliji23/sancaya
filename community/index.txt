@@ -1,0 +1,300 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[2619,["850","static/chunks/850-a75039c48f0a4b65.js","69","static/chunks/69-b103c2f0a9525cf7.js","28","static/chunks/app/community/page-afbf753f7de89f51.js"],""]
+5:I[1356,["850","static/chunks/850-a75039c48f0a4b65.js","69","static/chunks/69-b103c2f0a9525cf7.js","28","static/chunks/app/community/page-afbf753f7de89f51.js"],"Image"]
+b:I[7150,[],""]
+:HL["/sancaya/_next/static/css/e0e2ed3347a22a90.css","style"]
+0:{"P":null,"b":"0LNuKZOeU8aORXUOw6wy_","p":"/sancaya","c":["","community",""],"i":false,"f":[[["",{"children":["community",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sancaya/_next/static/css/e0e2ed3347a22a90.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":["$","body",null,{"className":"__variable_04a5bd antialiased font-sans","children":[["$","main",null,{"className":"flex-1","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"relative bg-[#226B4C] text-white","children":["$","div",null,{"className":"mx-auto max-w-screen-xl px-8 sm:px-9 md:px-8 lg:px-12 xl:px-16","children":["$","div",null,{"className":"py-5 sm:py-8 md:py-9","children":["$","div",null,{"className":"max-w-xs sm:max-w-sm md:max-w-md","children":[["$","$L4",null,{"href":"/","aria-label":"Go to homepage","className":"inline-flex items-center","children":["$","$L5",null,{"src":"/assets/logo-putih.webp","alt":"Sancaya Indonesia","width":200,"height":48,"className":"h-[clamp(40px,3.2vw,50px)] w-auto","priority":true}]}],["$","p",null,{"className":"mt-2 text-white/90 text-[clamp(12px,1.4vw,14px)]","children":["Copyright © ",2025," Sancaya Indonesia"]}],["$","p",null,{"className":"mt-1 text-white/80 text-[clamp(12px,1.2vw,13px)]","children":"All rights reserved"}],["$","ul",null,{"className":"mt-3 flex items-center gap-[clamp(6px,1.2vw,10px)]","children":[["$","li","Instagram",{"children":["$","$L4",null,{"href":"https://www.instagram.com/sancayaindonesia/reels/","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","className":"group grid h-[clamp(25px,4.2vw,30px)] w-[clamp(25px,4.2vw,30px)] place-items-center rounded-full   bg-white/10 ring-1 ring-white/15   transition hover:bg-white/20 hover:ring-white/25","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"h-[20px] w-[20px] text-white/90 group-hover:text-white","aria-hidden":"true","children":[["$","rect",null,{"x":"3","y":"3","width":"18","height":"18","rx":"5","ry":"5","fill":"none","stroke":"currentColor","strokeWidth":"1.6"}],["$","circle",null,{"cx":"12","cy":"12","r":"4.2","fill":"none","stroke":"currentColor","strokeWidth":"1.6"}],["$","circle",null,{"cx":"17.2","cy":"6.8","r":"1.2","fill":"currentColor"}]]}]}]}],["$","li","Facebook",{"children":["$","$L4",null,{"href":"https://m.facebook.com/sancayaindonesia/photos/","target":"_blank","rel":"noopener noreferrer","aria-label":"Facebook","className":"group grid h-[clamp(25px,4.2vw,30px)] w-[clamp(25px,4.2vw,30px)] place-items-center rounded-full   bg-white/10 ring-1 ring-white/15   transition hover:bg-white/20 hover:ring-white/25","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"h-[20px] w-[20px] text-white/90 group-hover:text-white","aria-hidden":"true","children":["$","path",null,{"d":"M15 3h-2a4 4 0 0 0-4 4v3H7v3h2v7h3v-7h2.2l.8-3H12V7a1 1 0 0 1 1-1h2V3z","fill":"currentColor"}]}]}]}],["$","li","LinkedIn",{"children":["$","$L4",null,{"href":"https://id.linkedin.com/company/sancaya-indonesia","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"group grid h-[clamp(25px,4.2vw,30px)] w-[clamp(25px,4.2vw,30px)] place-items-center rounded-full   bg-white/10 ring-1 ring-white/15   transition hover:bg-white/20 hover:ring-white/25","children":"$L6"}]}],"$L7"]}]]}]}]}]}]]}]}]]}],{"children":["community","$L8",{"children":["__PAGE__","$L9",{},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+17:I[4431,[],"ViewportBoundary"]
+19:I[4431,[],"MetadataBoundary"]
+1a:"$Sreact.suspense"
+6:["$","svg",null,{"viewBox":"0 0 24 24","className":"h-[20px] w-[20px] text-white/90 group-hover:text-white","aria-hidden":"true","children":["$","path",null,{"d":"M4 9h3v11H4zM5.5 3.5A1.5 1.5 0 1 1 4 5a1.5 1.5 0 0 1 1.5-1.5zM9 9h3v1.6h.1A3.3 3.3 0 0 1 15 9c3.2 0 3.8 2.1 3.8 4.8V20h-3v-4.8c0-1.1 0-2.5-1.5-2.5s-1.7 1.2-1.7 2.4V20H9z","fill":"currentColor"}]}]
+7:["$","li","X",{"children":["$","$L4",null,{"href":"https://x.com/SancayaIndo?t=xfJQy-glwOjg5bnP4e5Tsg&s=09","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"group grid h-[clamp(25px,4.2vw,30px)] w-[clamp(25px,4.2vw,30px)] place-items-center rounded-full   bg-white/10 ring-1 ring-white/15   transition hover:bg-white/20 hover:ring-white/25","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"h-[20px] w-[20px] text-white/90 group-hover:text-white","aria-hidden":"true","children":["$","path",null,{"d":"M17.576 3.493L20.47 3.493L14.17 10.683L21.567 20.508L15.775 20.508L11.242 14.604L6.063 20.508L2.434 20.508L9.195 12.791L2.433 3.493L8.285 3.493L12.382 8.87L17.577 3.492Z","fill":"currentColor"}]}]}]}]
+8:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[["$","main",null,{"children":[["$","div",null,{"className":"pointer-events-none fixed inset-x-0 top-4 z-50","children":["$","nav",null,{"aria-label":"Main","className":"relative pointer-events-auto mx-auto w-[92%] max-w-screen-sm md:max-w-screen-xl bg-white shadow-lg ring-1 ring-black/5 rounded-[40px] overflow-hidden","children":[["$","div",null,{"className":"flex items-center justify-between h-14 pl-6 pr-4 md:pl-8 md:pr-6","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-2","aria-label":"Go to homepage","children":["$","$L5",null,{"src":"/assets/logo.svg","alt":"Sancaya Indonesia","width":160,"height":32,"priority":true,"sizes":"160px","className":"h-7 md:h-8 w-auto shrink-0"}]}],["$","div",null,{"className":"hidden md:flex md:items-center md:gap-2 xl:gap-1.5","children":["$","ul",null,{"className":"flex items-center gap-x-px md:gap-x-0.5 lg:gap-x-1","children":[["$","li","/",{"children":["$","$L4",null,{"href":"/","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Home"}]}],["$","li","/about",{"children":["$","$L4",null,{"href":"/about","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"About Us"}]}],["$","li","/school",{"children":["$","$L4",null,{"href":"/school","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"School"}]}],["$","li","/clinic",{"children":["$","$L4",null,{"href":"/clinic","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Clinic"}]}],["$","li","/research-center",{"children":["$","$L4",null,{"href":"/research-center","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Research Center"}]}],["$","li","/community",{"children":["$","$L4",null,{"href":"/community","aria-current":"page","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] bg-emerald-700 text-white","children":"Community"}]}],["$","li","/contact",{"children":["$","$L4",null,{"href":"/contact","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Contact"}]}]]}]}]]}],["$","details",null,{"id":"mobile-nav","className":"md:hidden group","children":[["$","summary",null,{"aria-label":"Toggle menu","className":"list-none [&::-webkit-details-marker]:hidden   absolute top-2 right-4 inline-flex h-10 w-10 items-center justify-center   rounded-full text-emerald-700 hover:bg-black/5 outline-none","children":["$Lc","$Ld"]}],"$Le","$Lf"]}]]}]}],"$L10","$L11","$L12","$L13","$L14","$L15"]}],null,"$L16"]}]
+a:["$","$1","h",{"children":[null,[["$","$L17",null,{"children":"$L18"}],null],["$","$L19",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1a",null,{"fallback":null,"children":"$L1b"}]}]}]]}]
+1c:I[7960,["850","static/chunks/850-a75039c48f0a4b65.js","69","static/chunks/69-b103c2f0a9525cf7.js","28","static/chunks/app/community/page-afbf753f7de89f51.js"],"default"]
+2a:I[4431,[],"OutletBoundary"]
+2c:I[5278,[],"AsyncMetadataOutlet"]
+c:["$","svg",null,{"viewBox":"0 0 24 24","className":"h-7 w-7 group-open:hidden","aria-hidden":"true","children":["$","path",null,{"d":"M4 7h16M4 12h16M4 17h16","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round"}]}]
+d:["$","svg",null,{"viewBox":"0 0 24 24","className":"h-7 w-7 hidden group-open:block","aria-hidden":"true","children":["$","path",null,{"d":"M6 6l12 12M18 6L6 18","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round"}]}]
+e:["$","div",null,{"className":"hidden group-open:block border-t border-black/10","aria-hidden":"true"}]
+f:["$","div",null,{"className":"grid grid-rows-[0fr] group-open:grid-rows-[1fr] transition-[grid-template-rows] duration-300 ease-out","children":["$","div",null,{"className":"overflow-hidden","children":["$","ul",null,{"className":"px-4 py-6 space-y-2","children":[["$","li","/",{"children":["$","$L4",null,{"href":"/","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Home"}]}],["$","li","/about",{"children":["$","$L4",null,{"href":"/about","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"About Us"}]}],["$","li","/school",{"children":["$","$L4",null,{"href":"/school","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"School"}]}],["$","li","/clinic",{"children":["$","$L4",null,{"href":"/clinic","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Clinic"}]}],["$","li","/research-center",{"children":["$","$L4",null,{"href":"/research-center","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Research Center"}]}],["$","li","/community",{"children":["$","$L4",null,{"href":"/community","aria-current":"page","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] bg-emerald-700 text-white","children":"Community"}]}],["$","li","/contact",{"children":["$","$L4",null,{"href":"/contact","aria-current":"$undefined","className":"px-2 py-1 md:px-2.5 md:py-1 lg:px-3 lg:py-1.5 xl:px-3.5 xl:py-2 rounded-full font-medium md:font-semibold tracking-tight transition-colors text-[12px] md:text-[13px] lg:text-[13.5px] xl:text-[13px] 2xl:text-[12.5px] text-slate-700 hover:text-slate-900","children":"Contact"}]}]]}]}]}]
+10:["$","section",null,{"aria-labelledby":"hero-title","className":"relative isolate min-h-[100svh]","children":[["$","$L5",null,{"src":"/assets/hero-home.webp","alt":"Sancaya garden","fill":true,"priority":true,"sizes":"100vw","className":"object-cover object-center"}],["$","div",null,{"className":"pointer-events-none absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/50"}],["$","div",null,{"className":"relative z-10 mx-auto max-w-screen-xl px-3 sm:px-6 md:px-8 lg:px-12 xl:px-16","children":["$","div",null,{"className":"flex min-h-[100svh] items-center justify-center","children":["$","div",null,{"className":"w-full text-center text-white","children":[["$","h1",null,{"id":"hero-title","className":"   mx-auto max-w-3xl text-balance   text-4xl sm:text-5xl md:text-6xl   font-extrabold leading-tight tracking-tight   ","children":"Our Community"}],["$","p",null,{"className":"   mx-auto mt-5 sm:mt-6 md:mt-8 max-w-5xl text-pretty   px-6 sm:px-6 md:px-8 lg:px-12 xl:px-16   text-[clamp(13px,2.6vw,16px)] leading-[1.7] text-white/90   ","children":"From fields to classrooms, your expertise matters. Join our volunteer team—across Sunday Services, Community Kitchen, and Teacher Training—to turn ideas into real impact."}],false,["$","div",null,{"className":"mt-5 sm:mt-6 md:mt-7","children":["$","$L4",null,{"href":"/contact","className":"   inline-flex items-center rounded-full bg-emerald-700 px-6 py-3   text-sm sm:text-base font-semibold text-white   hover:bg-emerald-700   focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-700 focus-visible:ring-offset-2   ","children":"Join Our Volunteer"}]}]]}]}]}]]}]
+11:["$","div",null,{"className":"container mx-auto mt-24 mb-5 px-4 lg:px-6 max-w-[680px] md:max-w-[750px] lg:max-w-[1040px]","children":["$","$L1c",null,{"src":"/assets/community/community-about.webp","alt":"Community activities","height":{"base":250,"lg":320},"rounded":"xl","priority":true,"shadow":true}]}]
+1d:T498,
+      .gapScope--service-detail {
+        --gap-title: 0rem;
+        --gap-subtitle: 0.5rem;
+        --gap-text: 2.5rem;
+        --gap-actions: 2.5rem;
+        --gap-media: 1.5rem;
+      }
+      @media (min-width: 640px) {
+        .gapScope--service-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 2.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 768px) {
+        .gapScope--service-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1024px) {
+        .gapScope--service-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.25rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3.75rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1280px) {
+        .gapScope--service-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 4.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+    12:["$","section",null,{"id":"service-detail","aria-labelledby":"service-detail-title","className":"bg-white text-slate-900 py-16 md:py-24","children":[["$","style",null,{"children":"\n      .mediaClamp--service-detail { max-width: 680px; }\n      \n      @media (min-width: 1024px) {\n        .mediaClamp--service-detail { max-width: 1040px; }\n      }\n    "}],["$","style",null,{"children":"\n      .contentClamp--service-detail { max-width: 68ch; }\n      \n      @media (min-width: 1024px) {\n        .contentClamp--service-detail { max-width: 98ch; }\n      }\n    "}],["$","style",null,{"children":"$1d"}],["$","div",null,{"className":"w-full max-w-screen-xl mx-auto px-6 sm:px-8 md:px-10 lg:px-16 xl:px-24 gapScope--service-detail","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-1 lg:gap-x-1  ","children":[["$","div",null,{"className":"order-1  lg:order-1   text-justify lg:text-justify ","children":["$","div",null,{"className":"mx-auto lg:mx-0 contentClamp--service-detail lg:mx-auto","style":{},"children":[["$","h2",null,{"id":"service-detail-title","className":"text-balance font-extrabold tracking-tight text-[clamp(20px,8vw,30px)] lg:text-[clamp(30px,4vw,40px)] text-center lg:text-center mt-[var(--gap-title)]","children":"Our Community Programs"}],"$undefined",false,"$undefined",["$","div",null,{"className":"flex flex-wrap items-center gap-3 justify-start lg:justify-start mt-[var(--gap-actions)] lg:flex","children":["$","div",null,{"className":"w-full","children":["$","div",null,{"data-acc-root":true,"className":"w-full space-y-3","children":[[["$","details","sunday-services",{"id":"sunday-services","open":"$undefined","className":"group rounded-xl bg-white ring-1 ring-black/5 shadow-sm [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"cursor-pointer list-none px-4 py-3 sm:px-5 sm:py-4 flex items-center justify-between gap-4 rounded-xl bg-white transition-shadow duration-300 shadow-[0_6px_18px_-6px_rgba(0,0,0,0.22)] hover:shadow-[0_10px_28px_-8px_rgba(0,0,0,0.28)] group-open:shadow-none group-open:rounded-b-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/70","children":[["$","span",null,{"className":"flex items-start gap-3 flex-1 min-w-0","children":[["$","span",null,{"className":"text-slate-900 font-semibold leading-none shrink-0 mt-[2px]","children":[1,"."]}],["$","span",null,{"className":"text-slate-900 text-sm sm:text-base text-left font-semibold leading-tight","children":"Sunday Services"}]]}],"$L1e"]}],"$L1f"]}],"$L20","$L21","$L22"],"$L23"]}]}]}]]}]}],"$undefined","$L24"]}]}]]}]
+25:T4a2,
+      .gapScope--volunteer-detail {
+        --gap-title: 0rem;
+        --gap-subtitle: 0.5rem;
+        --gap-text: 2.5rem;
+        --gap-actions: 2.5rem;
+        --gap-media: 1.5rem;
+      }
+      @media (min-width: 640px) {
+        .gapScope--volunteer-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 2.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 768px) {
+        .gapScope--volunteer-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1024px) {
+        .gapScope--volunteer-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.25rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3.75rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1280px) {
+        .gapScope--volunteer-detail {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 4.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+    13:["$","section",null,{"id":"volunteer-detail","aria-labelledby":"volunteer-detail-title","className":"bg-[#F3F4EE] text-slate-900 py-16 md:py-24","children":[null,null,["$","style",null,{"children":"$25"}],["$","div",null,{"className":"w-full max-w-screen-xl mx-auto px-6 sm:px-8 md:px-10 lg:px-16 xl:px-24 gapScope--volunteer-detail","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-1 lg:gap-x-1  ","children":[["$","div",null,{"className":"order-1  lg:order-1   text-center lg:text-center ","children":["$","div",null,{"className":"mx-auto lg:mx-0  lg:mx-auto","style":{"maxWidth":"62ch"},"children":[["$","h2",null,{"id":"volunteer-detail-title","className":"text-balance font-extrabold tracking-tight text-[clamp(20px,8vw,30px)] lg:text-[clamp(30px,4vw,40px)] text-center lg:text-center mt-[var(--gap-title)]","children":"Why Volunteer With Us?"}],"$undefined",false,["$","div",null,{"className":"mt-[var(--gap-text)] text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-slate-700","children":[["$","p","p-0",{"className":"mb-4","children":"Contribute to innovative research in sustainable agriculture and education. Collaborate with leading researchers and educators. Gain hands-on experience in field studies and community outreach. Make a difference in local and global communities."}]]}],"$undefined"]}]}],"$undefined","$undefined"]}]}]]}]
+26:T4c5,
+      .gapScope--volunteer-opportunities {
+        --gap-title: 0rem;
+        --gap-subtitle: 0.5rem;
+        --gap-text: 2.5rem;
+        --gap-actions: 2.5rem;
+        --gap-media: 1.5rem;
+      }
+      @media (min-width: 640px) {
+        .gapScope--volunteer-opportunities {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 2.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 768px) {
+        .gapScope--volunteer-opportunities {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1024px) {
+        .gapScope--volunteer-opportunities {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.25rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3.75rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1280px) {
+        .gapScope--volunteer-opportunities {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 4.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+    14:["$","section",null,{"id":"volunteer-opportunities","aria-labelledby":"volunteer-opportunities-title","className":"bg-white text-slate-900 py-16 md:py-24","children":[["$","style",null,{"children":"\n      .mediaClamp--volunteer-opportunities { max-width: 980px; }\n      \n      @media (min-width: 1024px) {\n        .mediaClamp--volunteer-opportunities { max-width: 340px; }\n      }\n    "}],null,["$","style",null,{"children":"$26"}],["$","div",null,{"className":"w-full max-w-screen-xl mx-auto px-6 sm:px-8 md:px-10 lg:px-16 xl:px-24 gapScope--volunteer-opportunities","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-5 lg:gap-x-5  lg:items-center","children":[["$","div",null,{"className":"order-2  lg:order-2  lg:col-span-3 text-justify lg:text-justify ","children":["$","div",null,{"className":"mx-auto lg:mx-0  ","style":{"maxWidth":"62ch"},"children":[["$","h2",null,{"id":"volunteer-opportunities-title","className":"text-balance font-extrabold tracking-tight text-[clamp(20px,8vw,30px)] lg:text-[clamp(30px,4vw,40px)] text-center lg:text-left mt-[var(--gap-title)]","children":"Volunteer Opportunities"}],"$undefined",["$","div",null,{"className":"block lg:hidden mt-[var(--gap-media)]","children":["$","div",null,{"className":"w-full mx-auto min-w-0 mediaClamp--volunteer-opportunities","style":"$undefined","children":["$","$L1c",null,{"height":{"base":250,"lg":300},"rounded":"xl","priority":true,"src":"/assets/home/school-section.webp","alt":"Volunteer activities","shadow":true}]}]}],["$","div",null,{"className":"mt-[var(--gap-text)] text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-slate-700","children":[["$","p","p-0",{"className":"mb-4","children":"We offer flexible roles, including:"}],"\n",["$","ul","ul-0",{"className":"mb-4 list-disc pl-5","children":["\n",["$","li","li-0",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Field Support:"}]," Assist with organic farming trials and community gardens."]}],"\n",["$","li","li-1",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Program Assistance:"}]," Support programs for early intervention and inclusive education."]}],"\n",["$","li","li-2",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Outreach:"}]," Help raise awareness through events and social media."]}],"\n",["$","li","li-3",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Administrative Support:"}]," Organize events and manage resources."]}],"\n"]}]]}],"$undefined"]}]}],"$L27","$undefined"]}]}]]}]
+28:T4a7,
+      .gapScope--who-can-volunteer {
+        --gap-title: 0rem;
+        --gap-subtitle: 0.5rem;
+        --gap-text: 2.5rem;
+        --gap-actions: 2.5rem;
+        --gap-media: 1.5rem;
+      }
+      @media (min-width: 640px) {
+        .gapScope--who-can-volunteer {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 2.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 768px) {
+        .gapScope--who-can-volunteer {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1024px) {
+        .gapScope--who-can-volunteer {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.25rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 3.75rem;
+          --gap-media: 1.5rem;
+        }
+      }
+      @media (min-width: 1280px) {
+        .gapScope--who-can-volunteer {
+          --gap-title: 0rem;
+          --gap-subtitle: 0.5rem;
+          --gap-text: 2.5rem;
+          --gap-actions: 4.5rem;
+          --gap-media: 1.5rem;
+        }
+      }
+    15:["$","section",null,{"id":"who-can-volunteer","aria-labelledby":"who-can-volunteer-title","className":"bg-[#F3F4EE] text-slate-900 py-16 md:py-24","children":[["$","style",null,{"children":"\n      .mediaClamp--who-can-volunteer { max-width: 980px; }\n      \n      @media (min-width: 1024px) {\n        .mediaClamp--who-can-volunteer { max-width: 340px; }\n      }\n    "}],null,["$","style",null,{"children":"$28"}],["$","div",null,{"className":"w-full max-w-screen-xl mx-auto px-6 sm:px-8 md:px-10 lg:px-16 xl:px-24 gapScope--who-can-volunteer","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-5 lg:gap-x-5  lg:items-center","children":[["$","div",null,{"className":"order-2  lg:order-1  lg:col-span-3 text-justify lg:text-justify lg:pl-10","children":["$","div",null,{"className":"mx-auto lg:mx-0  ","style":{"maxWidth":"62ch"},"children":[["$","h2",null,{"id":"who-can-volunteer-title","className":"text-balance font-extrabold tracking-tight text-[clamp(20px,8vw,30px)] lg:text-[clamp(30px,4vw,40px)] text-center lg:text-left mt-[var(--gap-title)]","children":"Who Can Volunteer?"}],"$undefined",["$","div",null,{"className":"block lg:hidden mt-[var(--gap-media)]","children":["$","div",null,{"className":"w-full mx-auto min-w-0 mediaClamp--who-can-volunteer","style":"$undefined","children":["$","$L1c",null,{"height":"$14:props:children:3:props:children:props:children:0:props:children:props:children:2:props:children:props:children:props:height","rounded":"xl","priority":true,"src":"/assets/home/school-section.webp","alt":"Volunteers","shadow":true}]}]}],["$","div",null,{"className":"mt-[var(--gap-text)] text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-slate-700","children":[["$","p","p-0",{"className":"mb-4","children":"Everyone with a passion for sustainability and education is welcome, regardless of experience. Your commitment matters!"}],"\n",["$","p","p-1",{"className":"mb-4","children":["$","strong","strong-0",{"className":"font-semibold","children":"Get Started:"}]}],"\n",["$","ol","ol-0",{"className":"mb-4 list-decimal pl-5","children":["\n",["$","li","li-0",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Sign Up:"}]," Complete our online form to share your interests."]}],"\n",["$","li","li-1",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Learn More:"}]," Attend an info session to explore how you can contribute."]}],"\n",["$","li","li-2",{"className":"my-1","children":[["$","strong","strong-0",{"className":"font-semibold","children":"Connect:"}]," Reach out with questions or ideas."]}],"\n"]}]]}],"$undefined"]}]}],["$","div",null,{"className":"order-1  lg:order-2  lg:col-span-2 hidden lg:block  ","children":"$L29"}],"$undefined"]}]}]]}]
+16:["$","$L2a",null,{"children":["$L2b",["$","$L2c",null,{"promise":"$@2d"}]]}]
+2e:I[1402,["850","static/chunks/850-a75039c48f0a4b65.js","69","static/chunks/69-b103c2f0a9525cf7.js","28","static/chunks/app/community/page-afbf753f7de89f51.js"],""]
+1e:["$","svg",null,{"viewBox":"0 0 24 24","className":"h-5 w-5 shrink-0 text-emerald-700 transition-transform duration-300 group-open:rotate-180","fill":"none","stroke":"currentColor","strokeWidth":2,"aria-hidden":"true","children":["$","path",null,{"d":"M6 9l6 6 6-6"}]}]
+1f:["$","div",null,{"className":"grid transition-[grid-template-rows] duration-300 ease-out [grid-template-rows:0fr] group-open:[grid-template-rows:1fr]","children":["$","div",null,{"className":"overflow-hidden","children":["$","div",null,{"className":"px-4 pb-4 sm:px-5 sm:pb-6","children":["$","div",null,{"className":"relative isolate before:absolute before:-inset-x-6 before:-bottom-6 before:h-12 before:bg-black/25 before:blur-2xl before:opacity-25 before:-z-10","children":["$","div",null,{"className":"rounded-2xl group-open:rounded-t-none bg-white ring-1 ring-black/5 p-4 sm:p-6 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.35),_0_8px_20px_-10px_rgba(0,0,0,0.25)]","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:gap-x-8 sm:gap-y-4","children":[["$","div",null,{"className":"order-2 sm:order-1 flex-1 text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-gray-700","children":[["$","div",null,{"className":"space-y-3","children":["$","p",null,{"children":"Our Sunday Service fosters a meaningful connection with nature. We engage children in activities such as river cleanups, recycling initiatives, organic farming, and education on sustainable living practices. The event culminates with a communal meal featuring food sourced from our organic farm. Our aim is to instill in our children a deep appreciation for the environment and the significance of preserving our natural world."}]}],"$undefined","$undefined"]}],["$","div",null,{"style":{"--mh":"clamp(11rem, 40vw, 15rem)","--mh-sm":"clamp(11rem, 40vw, 15rem)","--mh-md":"280px","--mh-lg":"280px","--mh-xl":"280px"},"className":"order-1 sm:order-2 relative self-start w-full sm:flex-none sm:shrink-0 max-w-full sm:basis-[clamp(220px,36vw,380px)] md:basis-[clamp(240px,34vw,420px)] lg:basis-[clamp(260px,30vw,460px)] h-[var(--mh)] sm:h-[var(--mh-sm)] md:h-[var(--mh-md)] lg:h-[var(--mh-lg)] xl:h-[var(--mh-xl)] rounded-xl overflow-hidden shadow-[0_14px_40px_-16px_rgba(0,0,0,0.35)]","children":["$","$L5",null,{"src":"/assets/home/community-sunday-services.webp","alt":"OT session","fill":true,"sizes":"(min-width:1280px) 460px, (min-width:768px) 420px, (min-width:640px) 380px, 100vw","className":"object-cover"}]}]]}]}]}]}]}]}]
+20:["$","details","community-kitchen",{"id":"community-kitchen","open":"$undefined","className":"group rounded-xl bg-white ring-1 ring-black/5 shadow-sm [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"cursor-pointer list-none px-4 py-3 sm:px-5 sm:py-4 flex items-center justify-between gap-4 rounded-xl bg-white transition-shadow duration-300 shadow-[0_6px_18px_-6px_rgba(0,0,0,0.22)] hover:shadow-[0_10px_28px_-8px_rgba(0,0,0,0.28)] group-open:shadow-none group-open:rounded-b-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/70","children":[["$","span",null,{"className":"flex items-start gap-3 flex-1 min-w-0","children":[["$","span",null,{"className":"text-slate-900 font-semibold leading-none shrink-0 mt-[2px]","children":[2,"."]}],["$","span",null,{"className":"text-slate-900 text-sm sm:text-base text-left font-semibold leading-tight","children":"Community Kitchen"}]]}],["$","svg",null,{"viewBox":"0 0 24 24","className":"h-5 w-5 shrink-0 text-emerald-700 transition-transform duration-300 group-open:rotate-180","fill":"none","stroke":"currentColor","strokeWidth":2,"aria-hidden":"true","children":["$","path",null,{"d":"M6 9l6 6 6-6"}]}]]}],["$","div",null,{"className":"grid transition-[grid-template-rows] duration-300 ease-out [grid-template-rows:0fr] group-open:[grid-template-rows:1fr]","children":["$","div",null,{"className":"overflow-hidden","children":["$","div",null,{"className":"px-4 pb-4 sm:px-5 sm:pb-6","children":["$","div",null,{"className":"relative isolate before:absolute before:-inset-x-6 before:-bottom-6 before:h-12 before:bg-black/25 before:blur-2xl before:opacity-25 before:-z-10","children":["$","div",null,{"className":"rounded-2xl group-open:rounded-t-none bg-white ring-1 ring-black/5 p-4 sm:p-6 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.35),_0_8px_20px_-10px_rgba(0,0,0,0.25)]","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:gap-x-8 sm:gap-y-4","children":[["$","div",null,{"className":"order-2 sm:order-1 flex-1 text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-gray-700","children":[["$","div",null,{"className":"space-y-3","children":["$","p",null,{"children":"Our Community Kitchen program is dedicated to providing nutritious meals to children in our neighborhood and those facing challenges. We prepare meals daily and distribute them every Sunday to those in need. Our aim is to exemplify and promote the enduring values of compassion and generosity within our community. By doing so, we hope to inspire others to uphold these important principles. Additionally, we strive to offer support to individuals experiencing financial difficulties, helping to alleviate their burdens."}]}],"$undefined","$undefined"]}],["$","div",null,{"style":{"--mh":"clamp(11rem, 40vw, 15rem)","--mh-sm":"clamp(11rem, 40vw, 15rem)","--mh-md":"280px","--mh-lg":"280px","--mh-xl":"280px"},"className":"order-1 sm:order-2 relative self-start w-full sm:flex-none sm:shrink-0 max-w-full sm:basis-[clamp(220px,36vw,380px)] md:basis-[clamp(240px,34vw,420px)] lg:basis-[clamp(260px,30vw,460px)] h-[var(--mh)] sm:h-[var(--mh-sm)] md:h-[var(--mh-md)] lg:h-[var(--mh-lg)] xl:h-[var(--mh-xl)] rounded-xl overflow-hidden shadow-[0_14px_40px_-16px_rgba(0,0,0,0.35)]","children":["$","$L5",null,{"src":"/assets/home/community-community-kitchen.webp","alt":"OT session","fill":true,"sizes":"(min-width:1280px) 460px, (min-width:768px) 420px, (min-width:640px) 380px, 100vw","className":"object-cover"}]}]]}]}]}]}]}]}]]}]
+21:["$","details","scholarship-program",{"id":"scholarship-program","open":"$undefined","className":"group rounded-xl bg-white ring-1 ring-black/5 shadow-sm [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"cursor-pointer list-none px-4 py-3 sm:px-5 sm:py-4 flex items-center justify-between gap-4 rounded-xl bg-white transition-shadow duration-300 shadow-[0_6px_18px_-6px_rgba(0,0,0,0.22)] hover:shadow-[0_10px_28px_-8px_rgba(0,0,0,0.28)] group-open:shadow-none group-open:rounded-b-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/70","children":[["$","span",null,{"className":"flex items-start gap-3 flex-1 min-w-0","children":[["$","span",null,{"className":"text-slate-900 font-semibold leading-none shrink-0 mt-[2px]","children":[3,"."]}],["$","span",null,{"className":"text-slate-900 text-sm sm:text-base text-left font-semibold leading-tight","children":"Scholarship Program"}]]}],["$","svg",null,{"viewBox":"0 0 24 24","className":"h-5 w-5 shrink-0 text-emerald-700 transition-transform duration-300 group-open:rotate-180","fill":"none","stroke":"currentColor","strokeWidth":2,"aria-hidden":"true","children":["$","path",null,{"d":"M6 9l6 6 6-6"}]}]]}],["$","div",null,{"className":"grid transition-[grid-template-rows] duration-300 ease-out [grid-template-rows:0fr] group-open:[grid-template-rows:1fr]","children":["$","div",null,{"className":"overflow-hidden","children":["$","div",null,{"className":"px-4 pb-4 sm:px-5 sm:pb-6","children":["$","div",null,{"className":"relative isolate before:absolute before:-inset-x-6 before:-bottom-6 before:h-12 before:bg-black/25 before:blur-2xl before:opacity-25 before:-z-10","children":["$","div",null,{"className":"rounded-2xl group-open:rounded-t-none bg-white ring-1 ring-black/5 p-4 sm:p-6 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.35),_0_8px_20px_-10px_rgba(0,0,0,0.25)]","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:gap-x-8 sm:gap-y-4","children":[["$","div",null,{"className":"order-2 sm:order-1 flex-1 text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-gray-700","children":[["$","div",null,{"className":"space-y-3","children":["$","p",null,{"children":"We are pleased to offer a scholarship program designed to provide support to deserving children from low-income families, enabling them to access high-quality educational opportunities through our various programs. This initiative encompasses scholarships for participation in our formal education program, afterschool activities, and therapeutic services. We firmly believe in the principles of compassion and the fundamental right to education for every child."}]}],"$undefined","$undefined"]}],["$","div",null,{"style":{"--mh":"clamp(11rem, 40vw, 15rem)","--mh-sm":"clamp(11rem, 40vw, 15rem)","--mh-md":"280px","--mh-lg":"280px","--mh-xl":"280px"},"className":"order-1 sm:order-2 relative self-start w-full sm:flex-none sm:shrink-0 max-w-full sm:basis-[clamp(220px,36vw,380px)] md:basis-[clamp(240px,34vw,420px)] lg:basis-[clamp(260px,30vw,460px)] h-[var(--mh)] sm:h-[var(--mh-sm)] md:h-[var(--mh-md)] lg:h-[var(--mh-lg)] xl:h-[var(--mh-xl)] rounded-xl overflow-hidden shadow-[0_14px_40px_-16px_rgba(0,0,0,0.35)]","children":["$","$L5",null,{"src":"/assets/home/community-scholarship-program.webp","alt":"OT session","fill":true,"sizes":"(min-width:1280px) 460px, (min-width:768px) 420px, (min-width:640px) 380px, 100vw","className":"object-cover"}]}]]}]}]}]}]}]}]]}]
+22:["$","details","teacher-training",{"id":"teacher-training","open":"$undefined","className":"group rounded-xl bg-white ring-1 ring-black/5 shadow-sm [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"cursor-pointer list-none px-4 py-3 sm:px-5 sm:py-4 flex items-center justify-between gap-4 rounded-xl bg-white transition-shadow duration-300 shadow-[0_6px_18px_-6px_rgba(0,0,0,0.22)] hover:shadow-[0_10px_28px_-8px_rgba(0,0,0,0.28)] group-open:shadow-none group-open:rounded-b-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/70","children":[["$","span",null,{"className":"flex items-start gap-3 flex-1 min-w-0","children":[["$","span",null,{"className":"text-slate-900 font-semibold leading-none shrink-0 mt-[2px]","children":[4,"."]}],["$","span",null,{"className":"text-slate-900 text-sm sm:text-base text-left font-semibold leading-tight","children":"Teacher Training"}]]}],["$","svg",null,{"viewBox":"0 0 24 24","className":"h-5 w-5 shrink-0 text-emerald-700 transition-transform duration-300 group-open:rotate-180","fill":"none","stroke":"currentColor","strokeWidth":2,"aria-hidden":"true","children":["$","path",null,{"d":"M6 9l6 6 6-6"}]}]]}],["$","div",null,{"className":"grid transition-[grid-template-rows] duration-300 ease-out [grid-template-rows:0fr] group-open:[grid-template-rows:1fr]","children":["$","div",null,{"className":"overflow-hidden","children":["$","div",null,{"className":"px-4 pb-4 sm:px-5 sm:pb-6","children":["$","div",null,{"className":"relative isolate before:absolute before:-inset-x-6 before:-bottom-6 before:h-12 before:bg-black/25 before:blur-2xl before:opacity-25 before:-z-10","children":["$","div",null,{"className":"rounded-2xl group-open:rounded-t-none bg-white ring-1 ring-black/5 p-4 sm:p-6 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.35),_0_8px_20px_-10px_rgba(0,0,0,0.25)]","children":["$","div",null,{"className":"flex flex-col gap-4 sm:flex-row sm:gap-x-8 sm:gap-y-4","children":[["$","div",null,{"className":"order-2 sm:order-1 flex-1 text-[13px] sm:text-base md:text-[14px] leading-[1.85] text-gray-700","children":[["$","div",null,{"className":"space-y-3","children":["$","p",null,{"children":"As part of our initiative, we are dedicated to offering comprehensive training for schools and educators who seek to enhance their understanding of inclusive education. We believe that equipping teachers with the necessary knowledge and skills will enable a greater number of children to access the tailored support and learning strategies they require. Our vision is to foster an educational environment where more teachers and schools are well-prepared and receptive to the principles of inclusive education in the future."}]}],"$undefined","$undefined"]}],["$","div",null,{"style":{"--mh":"clamp(11rem, 40vw, 15rem)","--mh-sm":"clamp(11rem, 40vw, 15rem)","--mh-md":"280px","--mh-lg":"280px","--mh-xl":"280px"},"className":"order-1 sm:order-2 relative self-start w-full sm:flex-none sm:shrink-0 max-w-full sm:basis-[clamp(220px,36vw,380px)] md:basis-[clamp(240px,34vw,420px)] lg:basis-[clamp(260px,30vw,460px)] h-[var(--mh)] sm:h-[var(--mh-sm)] md:h-[var(--mh-md)] lg:h-[var(--mh-lg)] xl:h-[var(--mh-xl)] rounded-xl overflow-hidden shadow-[0_14px_40px_-16px_rgba(0,0,0,0.35)]","children":["$","$L5",null,{"src":"/assets/home/community-teacher-training.webp","alt":"OT session","fill":true,"sizes":"(min-width:1280px) 460px, (min-width:768px) 420px, (min-width:640px) 380px, 100vw","className":"object-cover"}]}]]}]}]}]}]}]}]]}]
+2f:T940,
+(function() {
+  var currentPageId = null;
+
+  function getPageId() {
+    var root = document.querySelector('[data-acc-root]');
+    if (!root) return null;
+    if (!root.dataset.accId) {
+      root.dataset.accId = 'page-' + Date.now();
+    }
+    return root.dataset.accId;
+  }
+
+  function openAccordion() {
+    var hash = location.hash.slice(1);
+    if (!hash) return;
+
+    var pageId = getPageId();
+    if (!pageId) return;
+
+    if (currentPageId !== pageId) {
+      currentPageId = pageId;
+    }
+
+    var targetId = decodeURIComponent(hash);
+    var attempts = 0;
+
+    function tryOpen() {
+      if (++attempts > 30) return;
+      if (getPageId() !== pageId) return;
+
+      var element = document.getElementById(targetId);
+      if (!element) { setTimeout(tryOpen, 100); return; }
+
+      var details = element.closest('details');
+      if (!details) return;
+
+      var root = details.closest('[data-acc-root]');
+      if (!root || root.dataset.accId !== pageId) return;
+
+      root.querySelectorAll('details[open]').forEach(function(d){ if(d!==details) d.open=false; });
+      details.open = true;
+
+      var summary = details.querySelector('summary');
+      if (summary && summary.focus) { try { summary.focus({ preventScroll: true }); } catch(_) {} }
+
+      setTimeout(function() {
+        if (getPageId() === pageId) {
+          var rect = details.getBoundingClientRect();
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+          var targetPos = rect.top + scrollTop - 120; // header offset
+          window.scrollTo({ top: Math.max(0, targetPos), behavior: 'smooth' });
+        }
+      }, 150);
+    }
+
+    tryOpen();
+  }
+
+  function init() {
+    currentPageId = getPageId();
+    setTimeout(openAccordion, 150);
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  window.addEventListener('hashchange', openAccordion);
+  window.addEventListener('pageshow', function(){ setTimeout(openAccordion, 150); });
+  window.addEventListener('popstate', function(){ setTimeout(openAccordion, 150); });
+
+  new MutationObserver(function() {
+    var root = document.querySelector('[data-acc-root]');
+    if (root) {
+      var newId = getPageId();
+      if (newId !== currentPageId) { init(); }
+    }
+  }).observe(document.body, { childList: true, subtree: true });
+})();
+      23:["$","$L2e",null,{"id":"accordion-hash-nav","strategy":"afterInteractive","children":"$2f"}]
+24:["$","div",null,{"className":"order-1  lg:order-1   text-justify lg:text-justify hidden lg:hidden order-3  lg:order-3","children":["$","div",null,{"className":"mx-auto lg:mx-0 contentClamp--service-detail lg:mx-auto","style":"$12:props:children:3:props:children:props:children:0:props:children:props:style","children":["$","div",null,{"className":"flex flex-wrap items-center gap-3 justify-start lg:justify-start mt-[var(--gap-actions)]","children":"$12:props:children:3:props:children:props:children:0:props:children:props:children:4:props:children"}]}]}]
+27:["$","div",null,{"className":"order-1  lg:order-1  lg:col-span-2 hidden lg:block  ","children":["$","div",null,{"className":"w-full mx-auto min-w-0 mediaClamp--volunteer-opportunities","style":"$undefined","children":"$14:props:children:3:props:children:props:children:0:props:children:props:children:2:props:children:props:children"}]}]
+29:["$","div",null,{"className":"w-full mx-auto min-w-0 mediaClamp--who-can-volunteer","style":"$undefined","children":"$15:props:children:3:props:children:props:children:0:props:children:props:children:2:props:children:props:children"}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2b:null
+30:I[622,[],"IconMark"]
+2d:{"metadata":[["$","title","0",{"children":"Sancaya Indonesia"}],["$","meta","1",{"name":"description","content":"Sancaya Indonesia is an inclusive school in Bali, Indonesia, welcoming students from all backgrounds—including mainstream learners and those with additional learning needs. Rooted in harmony among nature, humanity, and compassion, we blend the Indonesian and Australian curricula through a holistic, personalized approach so every child learns with confidence. With small classes, individualized education plans (IEPs) or tailored learning goals as appropriate, and close teacher–therapist–parent collaboration, we support sensory development, physical health, and social-emotional skills in a calm, sensory-friendly environment—preparing students to thrive academically and personally as compassionate, future-ready individuals."}],["$","link","2",{"rel":"icon","href":"/sancaya/favicon.ico","type":"image/x-icon","sizes":"500x500"}],["$","$L30","3",{}]],"error":null,"digest":"$undefined"}
+1b:"$2d:metadata"
